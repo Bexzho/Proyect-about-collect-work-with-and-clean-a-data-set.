@@ -2,10 +2,18 @@
 
                                                      CODE BOOK.
 
-## El nombre de las variables es entendible, por lo tanto no se necesita una descripcion detallada.
+### Subject esta establecida del 1 al 30 (Ya que son 30 sujetos los que hicienron el experimento)
 
+### Activitynames contiene los nombres de las actividades echas en el experimento y son:
+WALKING 
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS
+SITTING
+STANDING
+LAYING
 
-
+### Todas las variables restantes contienen valores numericos que representan el promedio o la desviacion estándar,
+estas variables son:
 
 ##  [1] "TimeDomain.BodyAcceleration.Mean...X"  
 
